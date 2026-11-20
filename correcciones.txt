@@ -1,0 +1,4 @@
+Correcciones realizadas durante el desarrollo del taller:
+Se revisaron y ajustaron las consultas SQL, las restricciones, 
+las claves foráneas y las relaciones entre las tablas para asegurar el 
+correcto funcionamiento de la base de datos.
